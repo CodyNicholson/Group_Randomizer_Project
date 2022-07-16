@@ -1,4 +1,4 @@
-# Group Randomizer Project
+# Group Randomizer Project Better Name
 
 By: Cody Nicholson & Ghani Zahid
 

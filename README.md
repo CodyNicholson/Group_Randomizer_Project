@@ -1,4 +1,5 @@
-# Group_Randomizer_Project
+# Group Randomizer Project
 
-Better app for putting students into groups
-An app for randomizing groups
+By: Cody & Jake
+
+An app for putting students into groups so that we don't need to go to the website with all the popups
